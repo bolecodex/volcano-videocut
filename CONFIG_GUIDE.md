@@ -1,4 +1,4 @@
-# VevDemo 配置指南
+# Volcano VideoCut 配置指南
 
 本 Demo 采用环境变量管理所有配置，避免硬编码，方便维护和部署。
 
@@ -143,7 +143,7 @@ npm run dev
 ### 配置相关文件
 
 ```
-vevdemo/
+volcano-videocut/
 ├── nodejs/
 │   ├── .env                    # 环境变量配置（不提交）
 │   ├── .env.example            # 环境变量模板（提交）

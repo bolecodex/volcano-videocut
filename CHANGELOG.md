@@ -1,5 +1,25 @@
 # 更新日志
 
+## [2.0.1] - 2025-11-16
+
+### 🏷️ 项目重命名
+
+#### 更名
+- **项目名称**: VevDemo → **Volcano VideoCut**
+- **文件夹名**: vevdemo → **volcano-videocut**
+- **包名称**: 
+  - 根目录: volcano-videocut
+  - 前端: volcano-videocut-frontend
+  - 后端: volcano-videocut-backend
+
+#### 更新
+- ✅ 更新所有 package.json 文件
+- ✅ 更新 README.md
+- ✅ 更新 CONFIG_GUIDE.md
+- ✅ 统一项目命名
+
+---
+
 ## [2.0.0] - 2025-11-16
 
 ### 🎯 重大改进：环境变量重构

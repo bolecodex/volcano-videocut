@@ -1,4 +1,4 @@
-# VevDemo - 视频剪辑 Web SDK 演示项目
+# Volcano VideoCut - 视频剪辑 Web SDK 演示项目
 
 基于火山引擎视频点播服务的完整视频剪辑 Web 应用示例。
 
@@ -72,7 +72,7 @@ npm run dev
 ## 📁 项目结构
 
 ```
-vevdemo/
+volcano-videocut/
 ├── nodejs/                 # 后端服务
 │   ├── .env               # 环境变量配置（不提交）
 │   ├── .env.example       # 环境变量模板

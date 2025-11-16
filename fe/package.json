@@ -1,7 +1,7 @@
 {
-  "name": "fe",
-  "version": "1.0.0",
-  "description": "",
+  "name": "volcano-videocut-frontend",
+  "version": "2.0.0",
+  "description": "Volcano VideoCut - 前端应用",
   "main": "index.js",
   "scripts": {
     "start": "vite",
